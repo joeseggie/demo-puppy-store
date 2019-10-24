@@ -1,2 +1,2 @@
-# demo-puppy-store
-Demo of Django Rest Framework
+# Demo of Django Rest Framework
+RealPython tutorial for DRF test driven development.
